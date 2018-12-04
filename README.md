@@ -34,7 +34,9 @@ Open standards for chaos engineering enables a collective learning foundation th
 ## The Proposed Plan
 
 This initiative plans to:
-* Define open standards at a concept level for Chaos Experiments and Findings.
+* Define an open standard at the concept level for chaos engineering experiments.
+* Define an open standard at the concept level for chaos experiment findings.
+* Define a minimal, common, open and vendor neutral Chaos Service API.
 * Initially to use the free and open source [Chaos Toolkit’s][toolkit] [Open API for Experiments][experiment] and [Findings][findings] concepts and documentation as a foundation and reference implementation of the open standards.
 
 [toolkit]: https://chaostoolkit.org/
