@@ -48,4 +48,4 @@ Join the ongoing discussion of this initiative in the [Chaos Community Google 
 Translations: EN | FR (TBD)
 If you want to add a translation, please submit a pull request against the [Github repository][repo].
 
-[repo]: https://github.com/russmiles/openchaos
+[repo]: https://github.com/open-chaos/openchaos
