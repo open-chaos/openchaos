@@ -5,8 +5,8 @@ _Last Updated: 3rd December, 2018_
 The [Principles of Chaos][principles] state that:
 
 > “Chaos Engineering is the discipline of experimenting on
-> a distributed system in order to build confidence in the
-> system’s capability to withstand turbulent conditions in
+> a distributed system in order to build confidence in the
+> system’s capability to withstand turbulent conditions in
 > production.”
 
 [principles]: http://principlesofchaos.org/
