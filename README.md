@@ -1,6 +1,6 @@
 # The Open Chaos Initiative
 
-_Last Updated: 3rd December, 2018_
+_Last Updated: 4th April, 2019_
 
 The [Principles of Chaos][principles] state that:
 
