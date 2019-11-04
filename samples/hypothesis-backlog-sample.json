@@ -1,0 +1,19 @@
+{
+    "title": "My Department's Hypothesis Backlog",
+    "description": "Where we capture only the most worrying beliefs, ready for exploration.",
+    "hypotheses": [
+        {
+            "statement": "We believe that the system will survive if DB01 fails completely.",
+            "notes": "",
+            "contributions": {
+                "availability": "high",
+                "reliability": "none",
+                "safety": "none",
+                "security": "none",
+                "performability": "none"
+            },
+            "likelihood": "high",
+            "impact": "medium"
+        }
+    ]
+}
