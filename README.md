@@ -38,6 +38,7 @@ This initiative plans to:
 * Define an open standard at the concept level for chaos experiment findings.
 * Define a minimal, common, open and vendor neutral Chaos Service API.
 * Initially to use the free and open source [Chaos Toolkit’s][toolkit] [Open API for Experiments][experiment] and [Findings][findings] concepts and documentation as a foundation and reference implementation of the open standards.
+* Establish the necessary processes, working groups and/or organisational structures that ensures the continuous development of the standards created during this initiative.
 
 [toolkit]: https://chaostoolkit.org/
 [experiment]: https://docs.chaostoolkit.org/reference/api/experiment/
